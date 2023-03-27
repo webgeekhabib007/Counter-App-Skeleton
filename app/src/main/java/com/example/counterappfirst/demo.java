@@ -1,4 +1,4 @@
-//java class with constructor,destructors and methods named demo
+//java class with constructor,destructors and methods named demo (edited in habib branch)
 class demo
 {
     int a,b;
